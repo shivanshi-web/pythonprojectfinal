@@ -1,0 +1,5 @@
+city,date,cases,recoveries,deaths
+Delhi,2024-01-01,120,90,3
+Delhi,2024-01-02,140,110,4
+Mumbai,2024-01-01,80,70,2
+Mumbai,2024-01-02,95,80,1
